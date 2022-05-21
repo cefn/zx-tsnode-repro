@@ -1,3 +1,3 @@
-import { utilityFunction } from "./lib/util"
+import { utilityFunction } from "./lib/util.js"
 
 utilityFunction()
